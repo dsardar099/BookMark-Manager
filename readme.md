@@ -1,5 +1,5 @@
 # This is a bookamrk manager web application developed using HTML, CSS, JS, Bootstrap5.
-# Author: Dwaipayan Sardar ( dwaipayan.sardar@vitra.ai )
+# Author: Dwaipayan Sardar ( dsardar099@gmail.com )
 # These are some screenshots of the functionalities of this web application.
 ##  Main UI of BookMark Manager
 ![alt text](img/BookmarkManager-Html-1.jpeg "Main UI of BookMark Manager")
