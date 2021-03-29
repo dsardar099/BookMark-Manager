@@ -1,0 +1,25 @@
+.tagCross {
+    cursor: default;
+}
+
+.filter-bar {
+    background-color: #b3fff2;
+}
+
+.disp-tab {
+    max-height: 550px;
+}
+
+.header {
+    font-family: 'Josefin Sans', sans-serif;
+    color: #000066;
+}
+
+.addHeader {
+    font-family: 'Abril Fatface', cursive;
+    font-size: 35px;
+    color: #510061;
+}
+.bookMarks{
+    font-family: 'Play', sans-serif;
+}
